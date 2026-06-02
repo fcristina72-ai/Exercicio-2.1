@@ -1,4 +1,8 @@
-# Mapeamento de Atores e Sistemas: Jornada da URA do Seguro-Desemprego (Caixa Econômica Federal)
+# Relatório — Assistente 2
+
+- **Ferramenta:** Claude 4.8 Opus
+- **Data:** 2026-06-02
+- **Prompt usado:** ver `A_meta_prompt.md`
 
 ## 1. Escopo e Horizonte Temporal
 * **Serviço:** Atendimento ao Seguro-Desemprego
