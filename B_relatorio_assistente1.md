@@ -1,7 +1,8 @@
-# Mapeamento de Atores — Jornada URA Caixa / Seguro-Desemprego (2024–2026)
-## Advertências sobre evidências
+# Relatório — Assistente 1
 
-**Zonas de opacidade relevantes para pesquisa:**
+- **Ferramenta:** Gemini 2.0 pro
+- **Data:** 2026-05-30
+- **Prompt usado:** ver `A_meta_prompt.md`
 
 - A Caixa não publicou documentação técnica sobre a arquitetura da URA (fornecedor, versão, capacidade de NLP/ASR vs. DTMF puro). A distinção entre atendimento eletrônico 24h e humano com janela horária é a única evidência pública direta de que há automação no front-end. Relatórios de TCU e CGU cobrem a cadeia de back-end (BGSD, eSocial, trilhas), não a camada de telefonia.
 
