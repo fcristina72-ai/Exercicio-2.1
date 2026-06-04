@@ -2,7 +2,8 @@
 
 > Confronto crítico entre dois relatórios sobre a jornada da URA telefônica do Seguro-Desemprego (Caixa / MTE), horizonte 2024–2026.
 > **A1 = `B_relatorio_assistente1.md`** (aparato crítico: advertências + fontes) · **A2 = `B_relatorio_assistente2.md`** (relatório completo: escopo + tabela de 7 atores + notas).
-> ⚠️ Assimetria de entrega: A1, como enviado, traz só o aparato crítico e *referencia* "atores 3, 4 e 11" de uma tabela principal **não anexada**. A2 está completo. A comparação de "completude do mapa" é, portanto, parcial.
+> ⚠️ Assimetria de entrega: A1, como enviado, traz só o aparato crítico e *referencia* "atores 3, 4 e 11" de uma tabela principal **não anexada**.
+> A2 está completo. A comparação de "completude do mapa" é, portanto, parcial.
 
 ---
 
