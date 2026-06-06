@@ -1,4 +1,8 @@
-# Mapeamento de Atores — Jornada URA Caixa / Seguro-Desemprego (2024–2026)
+# Relatório — Assistente 1
+
+- **Ferramenta:** Gemini 2.x 
+- **Data:** 2026-05-29
+- **Prompt usado:** ver `A_meta_prompt.md`
 
 ## 1. Escopo e postura metodológica
 
