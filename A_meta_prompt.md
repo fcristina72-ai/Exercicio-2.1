@@ -1,3 +1,5 @@
+## Meta Prompt
+
 Sou pesquisador de operações de serviço público com 10 anos em call center governamental
 Escopo explícito: serviço = Atendimento ao Seguro-Desemprego; canal = URA telefônica da Caixa Econômica Federal; jornada = do momento em que o cidadão liga até a resolução ou encaminhamento.
 Atores a mapear, explicitamente HUMANOS E DE IA. "incluindo sistemas automatizados, modelos de NLP, regras de roteamento algorítmico".
