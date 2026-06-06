@@ -5,7 +5,7 @@
 
 ---
 
-## v1 — primeira leitura (data: 2026-06-03)
+## V1 — primeira leitura (data: 2026-06-03)
 
 ### Pontos de concordância
 - **Cidadão / trabalhador** como usuário final.
@@ -35,7 +35,7 @@
 
 ---
 
-## v2 — após verificação externa de fontes (data: 2026-06-04)
+## V2 — após verificação externa de fontes (data: 2026-06-04)
 
 ### Mudanças nesta versão
 - **Mudou (posição):** Divergência 2 (canais) deixa de ser tratada como empate. **Antes:** "ambos plausíveis". **Agora:** A2 errou uma afirmação positiva e verificável (o número "111" não é canal do Seguro-Desemprego); o canal oficial de teleatendimento é o **158 (MTE)**, conforme a página gov.br do serviço.
@@ -54,7 +54,7 @@
 
 ---
 
-## v3 — após sessão /grill-me e construção do mapa de atores (data: 2026-06-06)
+## V3 — após sessão /grill-me e construção do mapa de atores (data: 2026-06-06)
 
 ### Mudanças nesta versão
 - **Premissa derrubada:** "existe **uma** URA do Seguro-Desemprego". **Antes (v1/v2):** jornada única. **Agora:** "**jornada única do usuário sobre DUAS URAs distintas**" — URA-MTE/158 (requerimento e dúvidas) e canais da Caixa (consulta de parcelas e pagamento).
