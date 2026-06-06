@@ -1,4 +1,9 @@
-# Mapeamento de Atores e Sistemas: Jornada da URA do Seguro-Desemprego (Caixa Econômica Federal / MTE)
+# Relatório — Assistente 2
+
+- **Ferramenta:** Cloude Pro
+- **Data:** 2026-06-01
+- **Prompt usado:** ver `A_meta_prompt.md`
+
 
 ## 1. Escopo e Horizonte Temporal
 * **Serviço:** Atendimento ao Seguro-Desemprego.
